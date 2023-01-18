@@ -951,35 +951,35 @@ dov {
 
 dov:nth-child(2) {
   height: 800px;
-  background-image: url(project1.jpg);
+  background-image: url(Project1.jpg);
   background-attachment: fixed;
   background-size: cover;
 }
 
 dov:nth-child(3) {
   height: 800px;
-  background-image: url(project2.jpg);
+  background-image: url(Project2.jpg);
   background-attachment: fixed;
   background-size: cover;
 }
 
 dov:nth-child(4) {
   height: 800px;
-  background-image: url(project3.jpg);
+  background-image: url(Project3.jpg);
   background-attachment: fixed;
   background-size: cover;
 }
 
 dov:nth-child(5) {
   height: 800px;
-  background-image: url(project4.jpg);
+  background-image: url(Project4.jpg);
   background-attachment: fixed;
   background-size: cover;
 }
 
 dov:nth-child(6) {
   height: 800px;
-  background-image: url(project5.jpg);
+  background-image: url(Project5.jpg);
   background-attachment: fixed;
   background-size: cover;
 }
